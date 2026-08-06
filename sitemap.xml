@@ -5,7 +5,7 @@
 <loc>https://blog.elliejackson.uk/</loc>
 </url>
 <url>
-<loc>https://blog.elliejackson.uk/about-me.html</loc>
+<loc>https://blog.elliejackson.uk/about-me/</loc>
 <lastmod>2026-08-06T11:23:40+01:00</lastmod>
 <image:image>
 <image:loc>https://blog.elliejackson.uk/media/posts/1/Ellie1.jpg</image:loc>
@@ -13,7 +13,7 @@
 </image:image>
 </url>
 <url>
-<loc>https://blog.elliejackson.uk/this-is-a-test-post.html</loc>
+<loc>https://blog.elliejackson.uk/this-is-a-test-post/</loc>
 <lastmod>2026-08-06T11:34:12+01:00</lastmod>
 </url>
 </urlset>

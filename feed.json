@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://blog.elliejackson.uk/this-is-a-test-post.html",
-            "url": "https://blog.elliejackson.uk/this-is-a-test-post.html",
+            "id": "https://blog.elliejackson.uk/this-is-a-test-post/",
+            "url": "https://blog.elliejackson.uk/this-is-a-test-post/",
             "title": "THIS IS A TEST POST",
             "author": {
                 "name": "Ellie Jackson"
