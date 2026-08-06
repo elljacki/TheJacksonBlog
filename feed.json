@@ -1,0 +1,25 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "The Jackson Blog",
+    "description": "",
+    "home_page_url": "https://elljacki.github.io/TheJacksonBlog",
+    "feed_url": "https://elljacki.github.io/TheJacksonBlog/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Ellie Jackson"
+    },
+    "items": [
+        {
+            "id": "https://elljacki.github.io/TheJacksonBlog/this-is-a-test-post.html",
+            "url": "https://elljacki.github.io/TheJacksonBlog/this-is-a-test-post.html",
+            "title": "THIS IS A TEST POST",
+            "author": {
+                "name": "Ellie Jackson"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-08-06T11:34:12+01:00",
+            "date_modified": "2026-08-06T11:34:12+01:00"
+        }
+    ]
+}
