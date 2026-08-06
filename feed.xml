@@ -3,7 +3,7 @@
     <title>The Jackson Blog</title>
     <link href="https://blog.elliejackson.uk/feed.xml" rel="self" />
     <link href="https://blog.elliejackson.uk" />
-    <updated>2026-08-06T11:51:03+01:00</updated>
+    <updated>2026-08-06T12:01:36+01:00</updated>
     <author>
         <name>Ellie Jackson</name>
     </author>
@@ -16,6 +16,7 @@
         </author>
         <link href="https://blog.elliejackson.uk/this-is-a-test-post/"/>
         <id>https://blog.elliejackson.uk/this-is-a-test-post/</id>
+        <media:content url="https://blog.elliejackson.uk/media/posts/2/Toilet-StockPhoto.jpg" medium="image" />
 
         <updated>2026-08-06T11:34:12+01:00</updated>
             <summary></summary>

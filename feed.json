@@ -13,13 +13,14 @@
             "id": "https://blog.elliejackson.uk/this-is-a-test-post/",
             "url": "https://blog.elliejackson.uk/this-is-a-test-post/",
             "title": "NEW EHRC GUIDELINES",
+            "image": "https://blog.elliejackson.uk/media/posts/2/Toilet-StockPhoto.jpg",
             "author": {
                 "name": "Ellie Jackson"
             },
             "tags": [
             ],
             "date_published": "2026-08-06T11:34:12+01:00",
-            "date_modified": "2026-08-06T11:51:03+01:00"
+            "date_modified": "2026-08-06T12:01:36+01:00"
         }
     ]
 }
