@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://elljacki.github.io/TheJacksonBlog/sitemap.xml
+Sitemap: https://blog.elliejackson.uk/sitemap.xml

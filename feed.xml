@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>The Jackson Blog</title>
-    <link href="https://elljacki.github.io/TheJacksonBlog/feed.xml" rel="self" />
-    <link href="https://elljacki.github.io/TheJacksonBlog" />
+    <link href="https://blog.elliejackson.uk/feed.xml" rel="self" />
+    <link href="https://blog.elliejackson.uk" />
     <updated>2026-08-06T11:34:12+01:00</updated>
     <author>
         <name>Ellie Jackson</name>
     </author>
-    <id>https://elljacki.github.io/TheJacksonBlog</id>
+    <id>https://blog.elliejackson.uk</id>
 
     <entry>
         <title>THIS IS A TEST POST</title>
         <author>
             <name>Ellie Jackson</name>
         </author>
-        <link href="https://elljacki.github.io/TheJacksonBlog/this-is-a-test-post.html"/>
-        <id>https://elljacki.github.io/TheJacksonBlog/this-is-a-test-post.html</id>
+        <link href="https://blog.elliejackson.uk/this-is-a-test-post.html"/>
+        <id>https://blog.elliejackson.uk/this-is-a-test-post.html</id>
 
         <updated>2026-08-06T11:34:12+01:00</updated>
             <summary></summary>
